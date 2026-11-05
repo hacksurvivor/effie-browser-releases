@@ -7,8 +7,8 @@ Downloads and the update feed for Effie Browser, the browser you and your AI age
 
 | System | Version | Notes |
 | --- | --- | --- |
-| macOS, Apple silicon | 0.1.20 | Signed with a Developer ID and notarized by Apple |
-| Linux, x86_64 | 0.1.20 | |
+| macOS, Apple silicon | 0.1.21 | Signed with a Developer ID and notarized by Apple |
+| Linux, x86_64 | 0.1.21 | |
 | Windows, x86_64 | 0.1.3 | An older build, until the Windows build is back |
 
 ## Source and licenses
@@ -21,4 +21,4 @@ Effie Browser includes open source software. You can get the source of its parts
 - [adblock-rust](https://github.com/brave/adblock-rust)
 - [bergamot-translator](https://github.com/browsermt/bergamot-translator) and [Firefox's translation models](https://github.com/mozilla/firefox-translations-models)
 
-From the version after 0.1.20, the app lists every license under **Effie Browser → Licenses**, or **⌘K → Licenses**.
+The app lists every license under **Effie Browser → Licenses**, or **⌘K → Licenses**.
